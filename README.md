@@ -1,13 +1,11 @@
 ### ChanYong Lee
 
 Automotive Engineering Student · Minor in Automotive IT Convergence<br>
-Automotive System Validation · Autonomous Driving · Motion Planning · Vehicle Control
+Autonomous Driving · Robotics · Motion Planning · Vehicle Control
 
 Member of **SEA:ME@KOREA · F1TENTH Team**
 
 ---
-
-Interested in validating automotive systems under realistic operating conditions and improving vehicle safety through evidence-based testing.
 
 Project experience includes F1TENTH autonomous racing, MAP–RRT path-planning comparison, and a ROS 2-based remote double-parking system.
 
@@ -18,15 +16,14 @@ Project experience includes F1TENTH autonomous racing, MAP–RRT path-planning c
 - **UROP**: MAP and RRT Path-Planning Performance Comparison for F1TENTH
 - **Hyundai NGV Education**: Mobility Data Analytics Project (COSS)
 
+**Contact**
+
+- Email: krchanyong@naver.com
+- GitHub: https://github.com/gnoyk
+
 **Tech Stack**
 
-- Languages: Python, C++
+- Languages: C, C++, Python
 - Robotics & Simulation: ROS 1, ROS 2, RViz, Gazebo
-- Autonomous Driving: SLAM, Particle Filter, RRT, Hybrid A*, Reeds–Shepp, PID Control
-- Development: Ubuntu Linux, Git, GitHub
-
-**Qualifications**
-
-- ADsP
-- Six Sigma Green Belt
-- Class 1 Driver License
+- Operating System: Linux (Ubuntu)
+- Tools & IDE: VS Code, GitHub, CMake
