@@ -1,29 +1,33 @@
-### ChanYong Lee
+# ChanYong Lee
 
-Automotive Engineering Student · Minor in Automotive IT Convergence<br>
-Autonomous Driving · Robotics · Motion Planning · Vehicle Control
+> Software Engineering Major | Automotive Engineering Minor | Automotive Software & Autonomous Driving @ Kookmin University, Korea
 
-Member of **SEA:ME@KOREA · F1TENTH Team**
+`SEA:ME@KOREA` · `F1TENTH Team`
 
 ---
 
-Project experience includes F1TENTH autonomous racing, MAP–RRT path-planning comparison, and a ROS 2-based remote double-parking system.
+## Highlights
 
-**Projects & Awards**
+| Experience | Description |
+| --- | --- |
+| F1TENTH Autonomous Racing | SLAM, localization, path planning, and vehicle control |
+| UROP Research | MAP and RRT path-planning performance comparison |
+| We Meet Project | ROS 2-based remote double-parking system |
 
-- **Encouragement Award**, 2026 PNU-HYUNSONG ROBORACE
-- **Bronze Award**, We Meet Project Capstone Design
-- **UROP**: MAP and RRT Path-Planning Performance Comparison for F1TENTH
-- **Hyundai NGV Education**: Mobility Data Analytics Project (COSS)
+## Awards & Activities
 
-**Contact**
+- Encouragement Award — 2026 PNU-HYUNSONG ROBORACE
+- Bronze Award — We Meet Project Capstone Design
+- Hyundai NGV Mobility Data Analytics Project (COSS)
 
-- Email: krchanyong@naver.com
-- GitHub: https://github.com/gnoyk
+## Tech Stack
 
-**Tech Stack**
+| Category | Tools |
+| --- | --- |
+| Languages | C, C++, Python |
+| Robotics & Simulation | ROS 1, ROS 2, RViz, Gazebo |
+| Development | Linux (Ubuntu), VS Code, CMake, Git, GitHub |
 
-- Languages: C, C++, Python
-- Robotics & Simulation: ROS 1, ROS 2, RViz, Gazebo
-- Operating System: Linux (Ubuntu)
-- Tools & IDE: VS Code, GitHub, CMake
+## Contact
+
+[Email](mailto:krchanyong@naver.com) · [GitHub](https://github.com/gnoyk)
