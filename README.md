@@ -18,7 +18,6 @@
 
 - Encouragement Award — 2026 PNU-HYUNSONG ROBORACE
 - Bronze Award — We Meet Project Capstone Design
-- Hyundai NGV Mobility Data Analytics Project (COSS)
 
 ## Tech Stack
 
