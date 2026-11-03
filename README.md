@@ -1,7 +1,9 @@
-### gnoyk
+### ChanYong Lee
 
 Automotive Engineering Student · Minor in Automotive IT Convergence<br>
 Automotive System Validation · Autonomous Driving · Motion Planning · Vehicle Control
+
+Member of **SEA:ME@KOREA · F1TENTH Team**
 
 ---
 
