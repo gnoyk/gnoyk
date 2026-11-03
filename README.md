@@ -1,6 +1,6 @@
 # ChanYong Lee
 
-> Software Engineering Major | Automotive Engineering Minor | Automotive Software & Autonomous Driving @ Kookmin University, Korea
+> Automotive Engineering Major | Automotive IT Convergence Minor | Automotive Software & Autonomous Driving @ Kookmin University, Korea
 
 `SEA:ME@KOREA` · `F1TENTH Team`
 
@@ -30,4 +30,5 @@
 
 ## Contact
 
-[Email](mailto:krchanyong@naver.com) · [GitHub](https://github.com/gnoyk)
+- Email: krchanyong@naver.com
+- GitHub: https://github.com/gnoyk
